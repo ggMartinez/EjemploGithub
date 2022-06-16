@@ -10,7 +10,7 @@
    </script>
 </head>
 <body>
-    <h1>Hola </h1>
-	<div><p>Buen dia </p></div>
+    <h1>Ta luego </h1>
+	<div> Ta luego loco. <a href="/cerrarSesion.php">Salir</a></div>
 </body>
 </html>
