@@ -10,7 +10,10 @@
    </script>
 </head>
 <body>
-    <h1>Hola </h1>
-	<div><p>Buen dia </p></div>
+    <h1>Compre mi producto </h1>
+	<div class="cartel" id="cartelito">
+		<p> Compre mi producto</p>
+		<img src="http://" />
+	/p></div>
 </body>
 </html>
