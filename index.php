@@ -10,7 +10,10 @@
    </script>
 </head>
 <body>
-    <h1>Ta luego </h1>
 	<div> Ta luego loco. <a href="/cerrarSesion.php">Salir</a></div>
+	<div class="cartel" id="cartelito">
+		<p> Compre mi producto</p>
+		<img src="http://" />
+	/p></div>
 </body>
 </html>
